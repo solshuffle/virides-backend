@@ -9,6 +9,8 @@
 /.next/
 /out/
 
+/.keystone
+
 # dotenv environment variables file
 .env
 .env.build
